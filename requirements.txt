@@ -1,0 +1,11 @@
+pandas
+plotly
+isodate
+nbformat
+ipykernel
+ipywidgets
+scipy
+seaborn
+matplotlib
+fpdf2
+jupyter
